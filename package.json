@@ -1,6 +1,6 @@
 {
   "name": "t1143",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test 1143",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
