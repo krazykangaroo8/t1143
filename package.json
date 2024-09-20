@@ -1,7 +1,7 @@
 {
-  "name": "karaden-prg-node",
-  "version": "1.2.0",
-  "description": "Node.js library for the Karaden API.",
+  "name": "t1143",
+  "version": "1.0.0",
+  "description": "Test 1143",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
   "files": [
@@ -20,7 +20,7 @@
   "author": {
     "name": "cpaas-dev-admin-om",
     "email": "cpaas-dev-admin-om@nttcoms.com",
-    "url": "https://github.com/karaden-prg/karaden-prg-node"
+    "url": "https://github.com/krazykangaroo8/t1143"
   },
   "license": "MIT",
   "devDependencies": {
@@ -72,5 +72,10 @@
     "testMatch": [
       "**/tests/**/*.test.+(ts|js)"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krazykangaroo8/t1143.git"
+  },
+  "homepage": "https://github.com/krazykangaroo8/t1143"
 }
